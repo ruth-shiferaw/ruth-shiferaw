@@ -4,7 +4,7 @@
 - 🌱 I’m studying for a Bachelors of Science in Computer Science.
 - 💞️ I’m in the graduating class of 2026, and always looking for learning experiences and internships.
 - 📫 How to reach me: (rshifer1@jhu.edu)
-- 📝 I like to learn about any sectors of computer science and am also interested in computational medicine.
+- 📝 I like to learn about any sectors of computer science and I am also interested in computational medicine.
 - 👩‍🎓 I am minoring in Applied Mathematics and Statistics and (soon) Computational Medicine!
 - ✅ My ultimate goal is to make the world a better place through technology and innovation.
 
